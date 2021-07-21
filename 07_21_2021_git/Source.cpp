@@ -4,6 +4,8 @@ using std::cin;
 int main() {
 
 	cout << "commit";
+	cout << "\n";
+	cout << "commit2";
 
 
 
