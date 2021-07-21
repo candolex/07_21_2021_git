@@ -3,9 +3,9 @@ using std::cout;
 using std::cin;
 int main() {
 
-	cout << "commit";
+	cout << "commit br";
 	cout << "\n";
-	cout << "commit2";
+	cout << "commit2 br";
 
 
 
